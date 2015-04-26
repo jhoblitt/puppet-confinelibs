@@ -2,7 +2,7 @@
   "name": "jhoblitt-confinelibs",
   "version": "0.1.0",
   "author": "Joshua Hoblitt <jhoblitt@cpan.org>",
-  "summary": "Confine proivders based on libs (Gems)",
+  "summary": "Confine Puppet providers based on libs (Gems)",
   "license": "Apache-2.0",
   "source": "https://github.com/jhoblitt/puppet-confinelibs.git",
   "project_page": "https://github.com/jhoblitt/puppet-confinelibs",
