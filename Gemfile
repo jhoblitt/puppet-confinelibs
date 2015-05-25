@@ -22,6 +22,7 @@ group :development, :test do
   gem 'rspec-puppet', '~> 2.1.0', :require => false
   gem 'metadata-json-lint',       :require => false
   gem 'pry',                      :require => false
+  gem 'travis-lint',              :require => false
 end
 
 # vim:ft=ruby
