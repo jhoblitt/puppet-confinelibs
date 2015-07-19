@@ -21,6 +21,10 @@ group :development, :test do
   gem 'puppet-syntax',            :require => false
   gem 'rspec-puppet', '~> 2.2',   :require => false
   gem 'metadata-json-lint',       :require => false
+end
+
+# not actually using beaker; keeping .travis.yml consistent
+group :beaker do
   gem 'pry',                      :require => false
   gem 'travis-lint',              :require => false
   gem 'puppet-blacksmith',        :require => false
